@@ -1,0 +1,97 @@
+TBlockURLLoader
+v5
+r1
+cCheck dependencies
+cProcessPCH /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BlockURLLoader-Prefix-guithgmrgpqoilclmtkwmqiqrrlu/BlockURLLoader-Prefix.pch.pth BlockURLLoader/BlockURLLoader-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/BlockURLLoader.build/Debug/BlockURLLoader.build/Objects-normal/x86_64/main.o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader/BlockURLLoader/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader/build/Debug/BlockURLLoader normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000516F78D900000000000000AA
+t1366259929
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000514A6B3600000000000C4BAC
+t1363831606
+s805804
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000005066365B00000000000015F7
+t1348875867
+s5623
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader/BlockURLLoader/BlockURLLoader-Prefix.pch
+c00000000517DD34300000000000000A7
+t1367200579
+s167
+i<Foundation/Foundation.h>
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader/BlockURLLoader/main.m
+c00000000517DE58700000000000003B1
+t1367205255
+s945
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader/build/BlockURLLoader.build/Debug/BlockURLLoader.build/Objects-normal/x86_64/BlockURLLoader.LinkFileList
+c00000000517DE58A000000000000009C
+t1367205258
+s156
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader/build/BlockURLLoader.build/Debug/BlockURLLoader.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader/build/Debug/BlockURLLoader
+t2
+s0
+
+N/var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BlockURLLoader-Prefix-guithgmrgpqoilclmtkwmqiqrrlu/BlockURLLoader-Prefix.pch.pth
+t2
+s0
+
+CBuild AST from /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader/BlockURLLoader/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies6935700a1d2eb741^9e3f810a1d2eb741^---0#1#0#--18"Check dependencies36"8116FA39-3EBC-4926-BB73-426747677161-
+
+CCompileC build/BlockURLLoader.build/Debug/BlockURLLoader.build/Objects-normal/x86_64/main.o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader/BlockURLLoader/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388898059.496179
+e388898059.619494
+r1
+xCompileC
+xbuild/BlockURLLoader.build/Debug/BlockURLLoader.build/Objects-normal/x86_64/main.o
+x/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader/BlockURLLoader/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader/BlockURLLoader/main.m2c297f0b1d2eb741^a2969e0b1d2eb741^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader/BlockURLLoader/main.m0000000000000000^3573"CompileC build/BlockURLLoader.build/Debug/BlockURLLoader.build/Objects-normal/x86_64/main.o BlockURLLoader/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader/build/BlockURLLoader.build/Debug/BlockURLLoader.build/BlockURLLoader-generated-files.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader/build/BlockURLLoader.build/Debug/BlockURLLoader.build/BlockURLLoader-own-target-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader/build/BlockURLLoader.build/Debug/BlockURLLoader.build/BlockURLLoader-all-target-headers.hmap -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader/build/BlockURLLoader.build/Debug/BlockURLLoader.build/BlockURLLoader-project-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader/build/BlockURLLoader.build/Debug/BlockURLLoader.build/DerivedSources/x86_64 -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader/build/BlockURLLoader.build/Debug/BlockURLLoader.build/DerivedSources -F/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader/build/Debug -include /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BlockURLLoader-Prefix-guithgmrgpqoilclmtkwmqiqrrlu/BlockURLLoader-Prefix.pch -MMD -MT dependencies -MF /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader/build/BlockURLLoader.build/Debug/BlockURLLoader.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader/build/BlockURLLoader.build/Debug/BlockURLLoader.build/Objects-normal/x86_64/main.dia -c /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader/BlockURLLoader/main.m -o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader/build/BlockURLLoader.build/Debug/BlockURLLoader.build/Objects-normal/x86_64/main.o36"6875CB2C-FEA6-4E09-A2D4-4E28ABBC7B05-
+
+CLd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader/build/Debug/BlockURLLoader normal x86_64
+s388898059.626264
+e388898059.657256
+r1
+xLd
+x/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader/build/Debug/BlockURLLoader
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Link /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader/build/Debug/BlockURLLoaderf167a00b1d2eb741^5342a80b1d2eb741^---0#0#0#--927"Ld build/Debug/BlockURLLoader normal x86_64    cd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader/build/Debug -F/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader/build/Debug -filelist /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader/build/BlockURLLoader.build/Debug/BlockURLLoader.build/Objects-normal/x86_64/BlockURLLoader.LinkFileList -mmacosx-version-min=10.8 -fobjc-arc -fobjc-link-runtime -framework Foundation -o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader/build/Debug/BlockURLLoader36"E3A3CE61-82A1-4CC8-86FA-6D3F0E61012A-
+
+CProcessPCH /Users/klee/Library/Developer/Xcode/DerivedData/BlockURLLoader-esphcodbfrolyfccaweoyvlpggdr/Index/PrecompiledHeaders/BlockURLLoader-Prefix-biczvpmwxlxwmgejqienmzrxyjob_ast/BlockURLLoader-Prefix.pch.pth BlockURLLoader/BlockURLLoader-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BlockURLLoader-Prefix-guithgmrgpqoilclmtkwmqiqrrlu/BlockURLLoader-Prefix.pch.pth BlockURLLoader/BlockURLLoader-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388898058.511114
+e388898059.489300
+r1
+xProcessPCH
+x/var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BlockURLLoader-Prefix-guithgmrgpqoilclmtkwmqiqrrlu/BlockURLLoader-Prefix.pch.pth
+xBlockURLLoader/BlockURLLoader-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Precompile BlockURLLoader/BlockURLLoader-Prefix.pch83fa820a1d2eb741^0b427d0b1d2eb741^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader/BlockURLLoader/BlockURLLoader-Prefix.pch0000000000000000^3585"ProcessPCH /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BlockURLLoader-Prefix-guithgmrgpqoilclmtkwmqiqrrlu/BlockURLLoader-Prefix.pch.pth BlockURLLoader/BlockURLLoader-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader/build/BlockURLLoader.build/Debug/BlockURLLoader.build/BlockURLLoader-generated-files.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader/build/BlockURLLoader.build/Debug/BlockURLLoader.build/BlockURLLoader-own-target-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader/build/BlockURLLoader.build/Debug/BlockURLLoader.build/BlockURLLoader-all-target-headers.hmap -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader/build/BlockURLLoader.build/Debug/BlockURLLoader.build/BlockURLLoader-project-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader/build/BlockURLLoader.build/Debug/BlockURLLoader.build/DerivedSources/x86_64 -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader/build/BlockURLLoader.build/Debug/BlockURLLoader.build/DerivedSources -F/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader/build/Debug --serialize-diagnostics /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BlockURLLoader-Prefix-guithgmrgpqoilclmtkwmqiqrrlu/BlockURLLoader-Prefix.pch.dia -c /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/BlockURLLoader/BlockURLLoader/BlockURLLoader-Prefix.pch -o /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BlockURLLoader-Prefix-guithgmrgpqoilclmtkwmqiqrrlu/BlockURLLoader-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/BlockURLLoader-Prefix-guithgmrgpqoilclmtkwmqiqrrlu/BlockURLLoader-Prefix.pch.d36"A5EB58E3-CC3F-4CB9-ACE9-E993F60E6BC0-
+

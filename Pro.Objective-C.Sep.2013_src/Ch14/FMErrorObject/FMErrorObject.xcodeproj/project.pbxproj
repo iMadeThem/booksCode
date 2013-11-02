@@ -1,0 +1,249 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		792A476D1719F4FB009DF3B2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 792A476C1719F4FB009DF3B2 /* Foundation.framework */; };
+		792A47701719F4FB009DF3B2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 792A476F1719F4FB009DF3B2 /* main.m */; };
+		792A47741719F4FB009DF3B2 /* FMErrorObject.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 792A47731719F4FB009DF3B2 /* FMErrorObject.1 */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		792A47671719F4FB009DF3B2 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+				792A47741719F4FB009DF3B2 /* FMErrorObject.1 in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		792A47691719F4FB009DF3B2 /* FMErrorObject */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = FMErrorObject; sourceTree = BUILT_PRODUCTS_DIR; };
+		792A476C1719F4FB009DF3B2 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		792A476F1719F4FB009DF3B2 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		792A47721719F4FB009DF3B2 /* FMErrorObject-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "FMErrorObject-Prefix.pch"; sourceTree = "<group>"; };
+		792A47731719F4FB009DF3B2 /* FMErrorObject.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = FMErrorObject.1; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		792A47661719F4FB009DF3B2 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				792A476D1719F4FB009DF3B2 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		792A47601719F4FB009DF3B2 = {
+			isa = PBXGroup;
+			children = (
+				792A476E1719F4FB009DF3B2 /* FMErrorObject */,
+				792A476B1719F4FB009DF3B2 /* Frameworks */,
+				792A476A1719F4FB009DF3B2 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		792A476A1719F4FB009DF3B2 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				792A47691719F4FB009DF3B2 /* FMErrorObject */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		792A476B1719F4FB009DF3B2 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				792A476C1719F4FB009DF3B2 /* Foundation.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		792A476E1719F4FB009DF3B2 /* FMErrorObject */ = {
+			isa = PBXGroup;
+			children = (
+				792A476F1719F4FB009DF3B2 /* main.m */,
+				792A47731719F4FB009DF3B2 /* FMErrorObject.1 */,
+				792A47711719F4FB009DF3B2 /* Supporting Files */,
+			);
+			path = FMErrorObject;
+			sourceTree = "<group>";
+		};
+		792A47711719F4FB009DF3B2 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				792A47721719F4FB009DF3B2 /* FMErrorObject-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		792A47681719F4FB009DF3B2 /* FMErrorObject */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 792A47771719F4FB009DF3B2 /* Build configuration list for PBXNativeTarget "FMErrorObject" */;
+			buildPhases = (
+				792A47651719F4FB009DF3B2 /* Sources */,
+				792A47661719F4FB009DF3B2 /* Frameworks */,
+				792A47671719F4FB009DF3B2 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = FMErrorObject;
+			productName = FMErrorObject;
+			productReference = 792A47691719F4FB009DF3B2 /* FMErrorObject */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		792A47611719F4FB009DF3B2 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0460;
+				ORGANIZATIONNAME = "Keith Lee";
+			};
+			buildConfigurationList = 792A47641719F4FB009DF3B2 /* Build configuration list for PBXProject "FMErrorObject" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 792A47601719F4FB009DF3B2;
+			productRefGroup = 792A476A1719F4FB009DF3B2 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				792A47681719F4FB009DF3B2 /* FMErrorObject */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		792A47651719F4FB009DF3B2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				792A47701719F4FB009DF3B2 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		792A47751719F4FB009DF3B2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		792A47761719F4FB009DF3B2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		792A47781719F4FB009DF3B2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "FMErrorObject/FMErrorObject-Prefix.pch";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		792A47791719F4FB009DF3B2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "FMErrorObject/FMErrorObject-Prefix.pch";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		792A47641719F4FB009DF3B2 /* Build configuration list for PBXProject "FMErrorObject" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				792A47751719F4FB009DF3B2 /* Debug */,
+				792A47761719F4FB009DF3B2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		792A47771719F4FB009DF3B2 /* Build configuration list for PBXNativeTarget "FMErrorObject" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				792A47781719F4FB009DF3B2 /* Debug */,
+				792A47791719F4FB009DF3B2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 792A47611719F4FB009DF3B2 /* Project object */;
+}

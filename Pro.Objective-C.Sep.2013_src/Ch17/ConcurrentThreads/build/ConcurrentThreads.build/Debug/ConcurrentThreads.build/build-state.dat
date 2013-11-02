@@ -1,0 +1,128 @@
+TConcurrentThreads
+v5
+r1
+cCheck dependencies
+cProcessPCH /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ConcurrentThreads-Prefix-alcidypvveieujhazqlpndlxjonq/ConcurrentThreads-Prefix.pch.pth ConcurrentThreads/ConcurrentThreads-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ConcurrentThreads.build/Debug/ConcurrentThreads.build/Objects-normal/x86_64/main.o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/ConcurrentThreads/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ConcurrentThreads.build/Debug/ConcurrentThreads.build/Objects-normal/x86_64/ConcurrentProcessor.o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/ConcurrentThreads/ConcurrentProcessor.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/build/Debug/ConcurrentThreads normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000516F78D900000000000000AA
+t1366259929
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000514A6B3600000000000C4BAC
+t1363831606
+s805804
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000005066365B00000000000015F7
+t1348875867
+s5623
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/ConcurrentThreads/ConcurrentProcessor.h
+c0000000051AA6613000000000000015D
+t1370121747
+s349
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/ConcurrentThreads/ConcurrentProcessor.m
+c0000000051AA66860000000000000763
+t1370121862
+s1891
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/ConcurrentThreads/ConcurrentThreads-Prefix.pch
+c0000000051AA548600000000000000AD
+t1370117254
+s173
+i<Foundation/Foundation.h>
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/ConcurrentThreads/main.m
+c0000000051AA633E0000000000000383
+t1370121022
+s899
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/build/ConcurrentThreads.build/Debug/ConcurrentThreads.build/Objects-normal/x86_64/ConcurrentProcessor.o
+t1370121499
+s18448
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/build/ConcurrentThreads.build/Debug/ConcurrentThreads.build/Objects-normal/x86_64/ConcurrentThreads.LinkFileList
+c0000000051AA63450000000000000159
+t1370121029
+s345
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/build/ConcurrentThreads.build/Debug/ConcurrentThreads.build/Objects-normal/x86_64/main.o
+t1370121030
+s6108
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/build/Debug/ConcurrentThreads
+t1370121499
+s17388
+
+N/var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ConcurrentThreads-Prefix-alcidypvveieujhazqlpndlxjonq/ConcurrentThreads-Prefix.pch.pth
+t1370121030
+s9388160
+
+CBuild AST from /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/ConcurrentThreads/ConcurrentProcessor.m
+r0
+
+CBuild AST from /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/ConcurrentThreads/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesa4e425089e5ab741^2a8c29089e5ab741^---0#1#0#--18"Check dependencies36"011BBE9F-1157-4897-95B6-C05E2C467F56-
+
+CCompileC build/ConcurrentThreads.build/Debug/ConcurrentThreads.build/Objects-normal/x86_64/ConcurrentProcessor.o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/ConcurrentThreads/ConcurrentProcessor.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s391814664.174618
+e391814664.225194
+r1
+xCompileC
+xbuild/ConcurrentThreads.build/Debug/ConcurrentThreads.build/Objects-normal/x86_64/ConcurrentProcessor.o
+x/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/ConcurrentThreads/ConcurrentProcessor.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compile /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/ConcurrentThreads/ConcurrentProcessor.m0fd52c089e5ab741^98a539089e5ab741^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/ConcurrentThreads/ConcurrentProcessor.m0000000000000000^3786"CompileC build/ConcurrentThreads.build/Debug/ConcurrentThreads.build/Objects-normal/x86_64/ConcurrentProcessor.o ConcurrentThreads/ConcurrentProcessor.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/build/ConcurrentThreads.build/Debug/ConcurrentThreads.build/ConcurrentThreads-generated-files.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/build/ConcurrentThreads.build/Debug/ConcurrentThreads.build/ConcurrentThreads-own-target-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/build/ConcurrentThreads.build/Debug/ConcurrentThreads.build/ConcurrentThreads-all-target-headers.hmap -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/build/ConcurrentThreads.build/Debug/ConcurrentThreads.build/ConcurrentThreads-project-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/build/ConcurrentThreads.build/Debug/ConcurrentThreads.build/DerivedSources/x86_64 -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/build/ConcurrentThreads.build/Debug/ConcurrentThreads.build/DerivedSources -F/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/build/Debug -include /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ConcurrentThreads-Prefix-alcidypvveieujhazqlpndlxjonq/ConcurrentThreads-Prefix.pch -MMD -MT dependencies -MF /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/build/ConcurrentThreads.build/Debug/ConcurrentThreads.build/Objects-normal/x86_64/ConcurrentProcessor.d --serialize-diagnostics /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/build/ConcurrentThreads.build/Debug/ConcurrentThreads.build/Objects-normal/x86_64/ConcurrentProcessor.dia -c /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/ConcurrentThreads/ConcurrentProcessor.m -o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/build/ConcurrentThreads.build/Debug/ConcurrentThreads.build/Objects-normal/x86_64/ConcurrentProcessor.o36"128FC294-5700-4D94-AD27-7A5993973ABC-
+
+CCompileC build/ConcurrentThreads.build/Debug/ConcurrentThreads.build/Objects-normal/x86_64/main.o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/ConcurrentThreads/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s391814664.174529
+e391814664.217210
+r1
+xCompileC
+xbuild/ConcurrentThreads.build/Debug/ConcurrentThreads.build/Objects-normal/x86_64/main.o
+x/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/ConcurrentThreads/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/ConcurrentThreads/main.m79cc2c089e5ab741^0f9c37089e5ab741^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/ConcurrentThreads/main.m0000000000000000^3696"CompileC build/ConcurrentThreads.build/Debug/ConcurrentThreads.build/Objects-normal/x86_64/main.o ConcurrentThreads/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/build/ConcurrentThreads.build/Debug/ConcurrentThreads.build/ConcurrentThreads-generated-files.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/build/ConcurrentThreads.build/Debug/ConcurrentThreads.build/ConcurrentThreads-own-target-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/build/ConcurrentThreads.build/Debug/ConcurrentThreads.build/ConcurrentThreads-all-target-headers.hmap -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/build/ConcurrentThreads.build/Debug/ConcurrentThreads.build/ConcurrentThreads-project-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/build/ConcurrentThreads.build/Debug/ConcurrentThreads.build/DerivedSources/x86_64 -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/build/ConcurrentThreads.build/Debug/ConcurrentThreads.build/DerivedSources -F/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/build/Debug -include /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ConcurrentThreads-Prefix-alcidypvveieujhazqlpndlxjonq/ConcurrentThreads-Prefix.pch -MMD -MT dependencies -MF /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/build/ConcurrentThreads.build/Debug/ConcurrentThreads.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/build/ConcurrentThreads.build/Debug/ConcurrentThreads.build/Objects-normal/x86_64/main.dia -c /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/ConcurrentThreads/main.m -o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/build/ConcurrentThreads.build/Debug/ConcurrentThreads.build/Objects-normal/x86_64/main.o36"CDAA579D-D469-44B6-B978-92D61F445961-
+
+CLd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/build/Debug/ConcurrentThreads normal x86_64
+s391814664.232046
+e391814664.259266
+r1
+xLd
+x/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/build/Debug/ConcurrentThreads
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Link /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/build/Debug/ConcurrentThreadse57e3b089e5ab741^ee5e42089e5ab741^---0#0#0#--957"Ld build/Debug/ConcurrentThreads normal x86_64    cd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/build/Debug -F/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/build/Debug -filelist /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/build/ConcurrentThreads.build/Debug/ConcurrentThreads.build/Objects-normal/x86_64/ConcurrentThreads.LinkFileList -mmacosx-version-min=10.8 -fobjc-arc -fobjc-link-runtime -framework Foundation -o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/build/Debug/ConcurrentThreads36"F6EF1795-6152-4715-A126-E6F394FA1392-
+
+CProcessPCH /Users/klee/Library/Developer/Xcode/DerivedData/ConcurrentThreads-arswfbdqobmexvgswvvvusghlnuj/Index/PrecompiledHeaders/ConcurrentThreads-Prefix-aybmrjwftqrzbvetwwpqukzodwbo_ast/ConcurrentThreads-Prefix.pch.pth ConcurrentThreads/ConcurrentThreads-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ConcurrentThreads-Prefix-alcidypvveieujhazqlpndlxjonq/ConcurrentThreads-Prefix.pch.pth ConcurrentThreads/ConcurrentThreads-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s391813829.599149
+e391813830.483985
+r1
+xProcessPCH
+x/var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ConcurrentThreads-Prefix-alcidypvveieujhazqlpndlxjonq/ConcurrentThreads-Prefix.pch.pth
+xConcurrentThreads/ConcurrentThreads-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Precompile ConcurrentThreads/ConcurrentThreads-Prefix.pcheb8e99c59a5ab741^ebe57bc69a5ab741^---0#0#0#-19%DVTDocumentLocation2@138"file://localhost/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/ConcurrentThreads/ConcurrentThreads-Prefix.pch0000000000000000^3699"ProcessPCH /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ConcurrentThreads-Prefix-alcidypvveieujhazqlpndlxjonq/ConcurrentThreads-Prefix.pch.pth ConcurrentThreads/ConcurrentThreads-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/build/ConcurrentThreads.build/Debug/ConcurrentThreads.build/ConcurrentThreads-generated-files.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/build/ConcurrentThreads.build/Debug/ConcurrentThreads.build/ConcurrentThreads-own-target-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/build/ConcurrentThreads.build/Debug/ConcurrentThreads.build/ConcurrentThreads-all-target-headers.hmap -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/build/ConcurrentThreads.build/Debug/ConcurrentThreads.build/ConcurrentThreads-project-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/build/ConcurrentThreads.build/Debug/ConcurrentThreads.build/DerivedSources/x86_64 -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/build/ConcurrentThreads.build/Debug/ConcurrentThreads.build/DerivedSources -F/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/build/Debug --serialize-diagnostics /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ConcurrentThreads-Prefix-alcidypvveieujhazqlpndlxjonq/ConcurrentThreads-Prefix.pch.dia -c /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ConcurrentThreads/ConcurrentThreads/ConcurrentThreads-Prefix.pch -o /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ConcurrentThreads-Prefix-alcidypvveieujhazqlpndlxjonq/ConcurrentThreads-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ConcurrentThreads-Prefix-alcidypvveieujhazqlpndlxjonq/ConcurrentThreads-Prefix.pch.d36"EDCEE18F-DCAB-4B8F-8208-C056BFF582DA-
+

@@ -1,0 +1,123 @@
+TNetConnector
+v5
+r1
+cCheck dependencies
+cProcessPCH /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NetConnector-Prefix-hjjxvzasfawfopedafgtvnbviskx/NetConnector-Prefix.pch.pth NetConnector/NetConnector-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/NetConnector.build/Debug/NetConnector.build/Objects-normal/x86_64/main.o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/NetConnector/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/NetConnector.build/Debug/NetConnector.build/Objects-normal/x86_64/NetConnector.o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/NetConnector.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/build/Debug/NetConnector normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000516F78D900000000000000AA
+t1366259929
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000514A6B3600000000000C4BAC
+t1363831606
+s805804
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000005066365B00000000000015F7
+t1348875867
+s5623
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/NetConnector.m
+c0000000051AD4AFB00000000000012A9
+t1370311419
+s4777
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/NetConnector/NetConnector-Prefix.pch
+c000000005131760C00000000000000A3
+t1362195980
+s163
+i<Foundation/Foundation.h>
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/NetConnector/main.m
+c0000000051AD4B520000000000000A30
+t1370311506
+s2608
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/build/Debug/NetConnector
+t2
+s0
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/build/NetConnector.build/Debug/NetConnector.build/Objects-normal/x86_64/NetConnector.LinkFileList
+c0000000051AD4D070000000000000134
+t1370311943
+s308
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/build/NetConnector.build/Debug/NetConnector.build/Objects-normal/x86_64/NetConnector.o
+t2
+s0
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/build/NetConnector.build/Debug/NetConnector.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NetConnector-Prefix-hjjxvzasfawfopedafgtvnbviskx/NetConnector-Prefix.pch.pth
+t2
+s0
+
+CBuild AST from /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/NetConnector.m
+r0
+
+CBuild AST from /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/NetConnector/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies404de187845db741^5646ef87845db741^---0#1#0#--18"Check dependencies36"59B90775-BDE6-4DC4-8F97-FEE7F126D884-
+
+CCompileC build/NetConnector.build/Debug/NetConnector.build/Objects-normal/x86_64/NetConnector.o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/NetConnector.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s392004744.824243
+e392004745.032077
+r1
+xCompileC
+xbuild/NetConnector.build/Debug/NetConnector.build/Objects-normal/x86_64/NetConnector.o
+x/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/NetConnector.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/NetConnector.m9031d388845db741^e3340889845db741^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/NetConnector.m0000000000000000^3513"CompileC build/NetConnector.build/Debug/NetConnector.build/Objects-normal/x86_64/NetConnector.o NetConnector.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/build/NetConnector.build/Debug/NetConnector.build/NetConnector-generated-files.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/build/NetConnector.build/Debug/NetConnector.build/NetConnector-own-target-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/build/NetConnector.build/Debug/NetConnector.build/NetConnector-all-target-headers.hmap -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/build/NetConnector.build/Debug/NetConnector.build/NetConnector-project-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/build/NetConnector.build/Debug/NetConnector.build/DerivedSources/x86_64 -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/build/NetConnector.build/Debug/NetConnector.build/DerivedSources -F/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/build/Debug -include /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NetConnector-Prefix-hjjxvzasfawfopedafgtvnbviskx/NetConnector-Prefix.pch -MMD -MT dependencies -MF /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/build/NetConnector.build/Debug/NetConnector.build/Objects-normal/x86_64/NetConnector.d --serialize-diagnostics /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/build/NetConnector.build/Debug/NetConnector.build/Objects-normal/x86_64/NetConnector.dia -c /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/NetConnector.m -o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/build/NetConnector.build/Debug/NetConnector.build/Objects-normal/x86_64/NetConnector.o36"78AC5C88-F181-4C1D-99A7-B1F867BB70FD-
+
+CCompileC build/NetConnector.build/Debug/NetConnector.build/Objects-normal/x86_64/main.o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/NetConnector/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s392004744.824208
+e392004745.024426
+r1
+xCompileC
+xbuild/NetConnector.build/Debug/NetConnector.build/Objects-normal/x86_64/main.o
+x/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/NetConnector/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/NetConnector/main.m452bd388845db741^64400689845db741^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/NetConnector/main.m0000000000000000^3491"CompileC build/NetConnector.build/Debug/NetConnector.build/Objects-normal/x86_64/main.o NetConnector/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/build/NetConnector.build/Debug/NetConnector.build/NetConnector-generated-files.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/build/NetConnector.build/Debug/NetConnector.build/NetConnector-own-target-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/build/NetConnector.build/Debug/NetConnector.build/NetConnector-all-target-headers.hmap -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/build/NetConnector.build/Debug/NetConnector.build/NetConnector-project-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/build/NetConnector.build/Debug/NetConnector.build/DerivedSources/x86_64 -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/build/NetConnector.build/Debug/NetConnector.build/DerivedSources -F/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/build/Debug -include /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NetConnector-Prefix-hjjxvzasfawfopedafgtvnbviskx/NetConnector-Prefix.pch -MMD -MT dependencies -MF /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/build/NetConnector.build/Debug/NetConnector.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/build/NetConnector.build/Debug/NetConnector.build/Objects-normal/x86_64/main.dia -c /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/NetConnector/main.m -o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/build/NetConnector.build/Debug/NetConnector.build/Objects-normal/x86_64/main.o36"AD6A786C-35F3-4451-9E36-E339586F7E7A-
+
+CLd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/build/Debug/NetConnector normal x86_64
+s392004745.038921
+e392004745.433360
+r1
+xLd
+x/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/build/Debug/NetConnector
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Link /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/build/Debug/NetConnectorc30f0a89845db741^bff06e89845db741^---0#0#0#--907"Ld build/Debug/NetConnector normal x86_64    cd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/build/Debug -F/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/build/Debug -filelist /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/build/NetConnector.build/Debug/NetConnector.build/Objects-normal/x86_64/NetConnector.LinkFileList -mmacosx-version-min=10.8 -fobjc-arc -fobjc-link-runtime -framework Foundation -o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/build/Debug/NetConnector36"4E5272EF-8C16-491F-9410-29EE5C2C8B1F-
+
+CProcessPCH /Users/klee/Library/Developer/Xcode/DerivedData/NetConnector-grvkrnhridsjcccyjaectcjqgxib/Index/PrecompiledHeaders/NetConnector-Prefix-aeylbtsldxfgywcviddcnomvvdyt_ast/NetConnector-Prefix.pch.pth NetConnector/NetConnector-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NetConnector-Prefix-hjjxvzasfawfopedafgtvnbviskx/NetConnector-Prefix.pch.pth NetConnector/NetConnector-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s392004743.938373
+e392004744.817380
+r1
+xProcessPCH
+x/var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NetConnector-Prefix-hjjxvzasfawfopedafgtvnbviskx/NetConnector-Prefix.pch.pth
+xNetConnector/NetConnector-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile NetConnector/NetConnector-Prefix.pchc688f087845db741^293fd188845db741^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/NetConnector/NetConnector-Prefix.pch0000000000000000^3509"ProcessPCH /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NetConnector-Prefix-hjjxvzasfawfopedafgtvnbviskx/NetConnector-Prefix.pch.pth NetConnector/NetConnector-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/build/NetConnector.build/Debug/NetConnector.build/NetConnector-generated-files.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/build/NetConnector.build/Debug/NetConnector.build/NetConnector-own-target-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/build/NetConnector.build/Debug/NetConnector.build/NetConnector-all-target-headers.hmap -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/build/NetConnector.build/Debug/NetConnector.build/NetConnector-project-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/build/NetConnector.build/Debug/NetConnector.build/DerivedSources/x86_64 -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/build/NetConnector.build/Debug/NetConnector.build/DerivedSources -F/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/build/Debug --serialize-diagnostics /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NetConnector-Prefix-hjjxvzasfawfopedafgtvnbviskx/NetConnector-Prefix.pch.dia -c /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/NetConnector/NetConnector/NetConnector-Prefix.pch -o /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NetConnector-Prefix-hjjxvzasfawfopedafgtvnbviskx/NetConnector-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NetConnector-Prefix-hjjxvzasfawfopedafgtvnbviskx/NetConnector-Prefix.pch.d36"B8FDA33D-D7E7-4011-AD85-9A01E3F09BAD-
+

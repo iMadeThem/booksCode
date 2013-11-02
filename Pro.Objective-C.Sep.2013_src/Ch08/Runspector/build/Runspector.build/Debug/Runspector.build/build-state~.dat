@@ -1,0 +1,97 @@
+TRunspector
+v5
+r1
+cCheck dependencies
+cProcessPCH /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Runspector-Prefix-cdmcwojrxebpyfedxitdfhlliwjd/Runspector-Prefix.pch.pth Runspector/Runspector-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Runspector.build/Debug/Runspector.build/Objects-normal/x86_64/main.o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector/Runspector/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector/build/Debug/Runspector normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000509323A600000000000000AA
+t1351820198
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005066365B00000000000C39B8
+t1348875867
+s801208
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000005066365B00000000000015F7
+t1348875867
+s5623
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector/Runspector/Runspector-Prefix.pch
+c0000000050F779AB000000000000009F
+t1358395819
+s159
+i<Foundation/Foundation.h>
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector/Runspector/main.m
+c0000000050F77C340000000000000491
+t1358396468
+s1169
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector/build/Debug/Runspector
+t2
+s0
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector/build/Runspector.build/Debug/Runspector.build/Objects-normal/x86_64/Runspector.LinkFileList
+c0000000050F77C3A0000000000000090
+t1358396474
+s144
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector/build/Runspector.build/Debug/Runspector.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Runspector-Prefix-cdmcwojrxebpyfedxitdfhlliwjd/Runspector-Prefix.pch.pth
+t2
+s0
+
+CBuild AST from /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector/Runspector/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesbedcd7bab3a7b641^c66fdabab3a7b641^---0#1#0#--18"Check dependencies36"29D62335-6559-4136-AB42-F5BB442AE3BF-
+
+CCompileC build/Runspector.build/Debug/Runspector.build/Objects-normal/x86_64/main.o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector/Runspector/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s380089275.861306
+e380089276.559219
+r1
+xCompileC
+xbuild/Runspector.build/Debug/Runspector.build/Objects-normal/x86_64/main.o
+x/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector/Runspector/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector/Runspector/main.m48a9dcbbb3a7b641^022b8fbcb3a7b641^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector/Runspector/main.m0000000000000000^3497"CompileC build/Runspector.build/Debug/Runspector.build/Objects-normal/x86_64/main.o Runspector/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector/build/Runspector.build/Debug/Runspector.build/Runspector-generated-files.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector/build/Runspector.build/Debug/Runspector.build/Runspector-own-target-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector/build/Runspector.build/Debug/Runspector.build/Runspector-all-target-headers.hmap -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector/build/Runspector.build/Debug/Runspector.build/Runspector-project-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector/build/Runspector.build/Debug/Runspector.build/DerivedSources/x86_64 -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector/build/Runspector.build/Debug/Runspector.build/DerivedSources -F/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector/build/Debug -include /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Runspector-Prefix-cdmcwojrxebpyfedxitdfhlliwjd/Runspector-Prefix.pch -MMD -MT dependencies -MF /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector/build/Runspector.build/Debug/Runspector.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector/build/Runspector.build/Debug/Runspector.build/Objects-normal/x86_64/main.dia -c /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector/Runspector/main.m -o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector/build/Runspector.build/Debug/Runspector.build/Objects-normal/x86_64/main.o36"B59CAEDE-3B8A-42F5-B47F-E2FF255284CE-
+
+CLd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector/build/Debug/Runspector normal x86_64
+s380089276.566058
+e380089278.218454
+r1
+xLd
+x/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector/build/Debug/Runspector
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Link /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector/build/Debug/Runspectorc00591bcb3a7b641^31ed37beb3a7b641^---0#0#0#--887"Ld build/Debug/Runspector normal x86_64    cd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector/build/Debug -F/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector/build/Debug -filelist /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector/build/Runspector.build/Debug/Runspector.build/Objects-normal/x86_64/Runspector.LinkFileList -mmacosx-version-min=10.8 -fobjc-arc -fobjc-link-runtime -framework Foundation -o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector/build/Debug/Runspector36"301BF937-2D0B-4C94-804F-AB96A78818C5-
+
+CProcessPCH /Users/klee/Library/Developer/Xcode/DerivedData/Runspector-bmxojprbqqfnzlgygpsheguedseu/Index/PrecompiledHeaders/Runspector-Prefix-bbugecusguwesickeeulszbtulrw_ast/Runspector-Prefix.pch.pth Runspector/Runspector-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Runspector-Prefix-cdmcwojrxebpyfedxitdfhlliwjd/Runspector-Prefix.pch.pth Runspector/Runspector-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s380089274.877747
+e380089275.854682
+r1
+xProcessPCH
+x/var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Runspector-Prefix-cdmcwojrxebpyfedxitdfhlliwjd/Runspector-Prefix.pch.pth
+xRunspector/Runspector-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile Runspector/Runspector-Prefix.pch3a59e2bab3a7b641^ffcadabbb3a7b641^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector/Runspector/Runspector-Prefix.pch0000000000000000^3521"ProcessPCH /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Runspector-Prefix-cdmcwojrxebpyfedxitdfhlliwjd/Runspector-Prefix.pch.pth Runspector/Runspector-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector/build/Runspector.build/Debug/Runspector.build/Runspector-generated-files.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector/build/Runspector.build/Debug/Runspector.build/Runspector-own-target-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector/build/Runspector.build/Debug/Runspector.build/Runspector-all-target-headers.hmap -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector/build/Runspector.build/Debug/Runspector.build/Runspector-project-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector/build/Runspector.build/Debug/Runspector.build/DerivedSources/x86_64 -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector/build/Runspector.build/Debug/Runspector.build/DerivedSources -F/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector/build/Debug --serialize-diagnostics /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Runspector-Prefix-cdmcwojrxebpyfedxitdfhlliwjd/Runspector-Prefix.pch.dia -c /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/Runspector/Runspector/Runspector-Prefix.pch -o /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Runspector-Prefix-cdmcwojrxebpyfedxitdfhlliwjd/Runspector-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Runspector-Prefix-cdmcwojrxebpyfedxitdfhlliwjd/Runspector-Prefix.pch.d36"3BE1AA79-6438-469E-B96B-B8848D81C312-
+

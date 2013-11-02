@@ -1,0 +1,236 @@
+TArchiveCat
+v5
+r1
+cCheck dependencies
+cProcessPCH /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ArchiveCat-Prefix-dkgsbtrucwuahaeuzetqbzyyystk/ArchiveCat-Prefix.pch.pth ArchiveCat/ArchiveCat-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/main.o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/Family.o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/Family.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/Order.o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/Order.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/Subfamily.o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/Subfamily.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/Archiver.o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/Archiver.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/Debug/ArchiveCat normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c000000005109EF2300000000000000AA
+t1359605539
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005066365B00000000000C39B8
+t1348875867
+s801208
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000005066365B00000000000015F7
+t1348875867
+s5623
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/ArchiveCat-Prefix.pch
+c00000000513AA490000000000000009F
+t1362797712
+s159
+i<Foundation/Foundation.h>
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/Archiver.h
+c00000000514515ED0000000000000738
+t1363482093
+s1848
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/Archiver.m
+c00000000514515F30000000000000BF2
+t1363482099
+s3058
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/Family.h
+c00000000514515D600000000000006FA
+t1363482070
+s1786
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/Family.m
+c00000000514515DD00000000000008E2
+t1363482077
+s2274
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/Order.h
+c00000000514515C700000000000006FB
+t1363482055
+s1787
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/Order.m
+c00000000514515D20000000000000859
+t1363482066
+s2137
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/Subfamily.h
+c00000000514515E20000000000000781
+t1363482082
+s1921
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/Subfamily.m
+c00000000514515E800000000000009F8
+t1363482088
+s2552
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/Suborder.m
+c00000000513AB18E00000000000002D7
+t1362801038
+s727
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/main.m
+c00000000514515CC0000000000000AFC
+t1363482060
+s2812
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/ArchiveCat.LinkFileList
+c00000000513BADEF00000000000002DC
+t1362865647
+s732
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/Archiver.o
+t1363057045
+s15144
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/Family.o
+t1363053800
+s11932
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/Order.o
+t1363055535
+s12148
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/Subfamily.o
+t1363053763
+s13824
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/Suborder.o
+t2
+s0
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/main.o
+t1363057045
+s7492
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/Debug/ArchiveCat
+t1363057045
+s24664
+
+N/var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ArchiveCat-Prefix-dkgsbtrucwuahaeuzetqbzyyystk/ArchiveCat-Prefix.pch.pth
+t1362864212
+s9387592
+
+CBuild AST from /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/Archiver.m
+r0
+
+CBuild AST from /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/Family.m
+r0
+
+CBuild AST from /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/Order.m
+r0
+
+CBuild AST from /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/Subfamily.m
+r0
+
+CBuild AST from /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/Suborder.m
+r0
+
+CBuild AST from /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesaad5df744df5b641^dbe058754df5b641^---0#1#0#--18"Check dependencies36"E2ED1F56-61D2-4203-8D18-1FFE74B5C144-
+
+CCompileC build/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/Archiver.o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/Archiver.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s385174901.360464
+e385174902.764672
+r1
+xCompileC
+xbuild/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/Archiver.o
+x/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/Archiver.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/Archiver.me7715c754df5b641^16c1c3764df5b641^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/Archiver.m0000000000000000^3433"CompileC build/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/Archiver.o ArchiveCat/Archiver.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/ArchiveCat-generated-files.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/ArchiveCat-own-target-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/ArchiveCat-all-target-headers.hmap -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/ArchiveCat-project-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/DerivedSources/x86_64 -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/DerivedSources -F/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/Debug -include /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ArchiveCat-Prefix-dkgsbtrucwuahaeuzetqbzyyystk/ArchiveCat-Prefix.pch -MMD -MT dependencies -MF /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/Archiver.d --serialize-diagnostics /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/Archiver.dia -c /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/Archiver.m -o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/Archiver.o36"2F3F436C-5809-4892-86B0-44C548919E46-
+
+CCompileC build/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/Family.o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/Family.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s385174901.360386
+e385174902.762941
+r1
+xCompileC
+xbuild/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/Family.o
+x/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/Family.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/Family.m7b675c754df5b641^b150c3764df5b641^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/Family.m0000000000000000^3421"CompileC build/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/Family.o ArchiveCat/Family.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/ArchiveCat-generated-files.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/ArchiveCat-own-target-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/ArchiveCat-all-target-headers.hmap -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/ArchiveCat-project-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/DerivedSources/x86_64 -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/DerivedSources -F/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/Debug -include /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ArchiveCat-Prefix-dkgsbtrucwuahaeuzetqbzyyystk/ArchiveCat-Prefix.pch -MMD -MT dependencies -MF /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/Family.d --serialize-diagnostics /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/Family.dia -c /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/Family.m -o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/Family.o36"961CFC2C-82E3-4C3E-A920-1FB80CC8BE68-
+
+CCompileC build/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/Order.o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/Order.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s385174901.360421
+e385174902.764126
+r1
+xCompileC
+xbuild/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/Order.o
+x/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/Order.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/Order.m61715c754df5b641^309cc3764df5b641^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/Order.m0000000000000000^3415"CompileC build/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/Order.o ArchiveCat/Order.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/ArchiveCat-generated-files.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/ArchiveCat-own-target-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/ArchiveCat-all-target-headers.hmap -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/ArchiveCat-project-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/DerivedSources/x86_64 -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/DerivedSources -F/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/Debug -include /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ArchiveCat-Prefix-dkgsbtrucwuahaeuzetqbzyyystk/ArchiveCat-Prefix.pch -MMD -MT dependencies -MF /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/Order.d --serialize-diagnostics /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/Order.dia -c /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/Order.m -o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/Order.o36"1B1F4974-8068-4580-A319-99E9D13BD35D-
+
+CCompileC build/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/Subfamily.o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/Subfamily.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s385174901.360458
+e385174902.764444
+r1
+xCompileC
+xbuild/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/Subfamily.o
+x/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/Subfamily.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/Subfamily.mbd6f5c754df5b641^70b0c3764df5b641^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/Subfamily.m0000000000000000^3439"CompileC build/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/Subfamily.o ArchiveCat/Subfamily.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/ArchiveCat-generated-files.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/ArchiveCat-own-target-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/ArchiveCat-all-target-headers.hmap -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/ArchiveCat-project-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/DerivedSources/x86_64 -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/DerivedSources -F/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/Debug -include /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ArchiveCat-Prefix-dkgsbtrucwuahaeuzetqbzyyystk/ArchiveCat-Prefix.pch -MMD -MT dependencies -MF /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/Subfamily.d --serialize-diagnostics /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/Subfamily.dia -c /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/Subfamily.m -o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/Subfamily.o36"065DA625-B330-4B4B-B26D-85ABA6B6598A-
+
+CCompileC build/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/Suborder.o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/Suborder.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/main.o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s385174901.360383
+e385174902.763119
+r1
+xCompileC
+xbuild/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/main.o
+x/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/main.m9d675c754df5b641^d15cc3764df5b641^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/main.m0000000000000000^3409"CompileC build/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/main.o ArchiveCat/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/ArchiveCat-generated-files.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/ArchiveCat-own-target-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/ArchiveCat-all-target-headers.hmap -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/ArchiveCat-project-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/DerivedSources/x86_64 -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/DerivedSources -F/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/Debug -include /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ArchiveCat-Prefix-dkgsbtrucwuahaeuzetqbzyyystk/ArchiveCat-Prefix.pch -MMD -MT dependencies -MF /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/main.dia -c /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/main.m -o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/main.o36"86C22B42-6922-4A56-8898-B22A53816412-
+
+CLd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/Debug/ArchiveCat normal x86_64
+s385174902.771498
+e385174904.132648
+r1
+xLd
+x/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/Debug/ArchiveCat
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Link /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/Debug/ArchiveCata297c5764df5b641^fdf621784df5b641^---0#0#0#--887"Ld build/Debug/ArchiveCat normal x86_64    cd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/Debug -F/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/Debug -filelist /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/Objects-normal/x86_64/ArchiveCat.LinkFileList -mmacosx-version-min=10.8 -fobjc-arc -fobjc-link-runtime -framework Foundation -o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/Debug/ArchiveCat36"4A0BC059-8B52-469C-A8F8-2B6E2694767C-
+
+CProcessPCH /Users/klee/Library/Developer/Xcode/DerivedData/ArchiveCat-acxanjciojjjdfglwjauiwonraqe/Index/PrecompiledHeaders/ArchiveCat-Prefix-bobbzljiliejnnfinouxnarnbrtb_ast/ArchiveCat-Prefix.pch.pth ArchiveCat/ArchiveCat-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ArchiveCat-Prefix-dkgsbtrucwuahaeuzetqbzyyystk/ArchiveCat-Prefix.pch.pth ArchiveCat/ArchiveCat-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s384557011.938127
+e384557012.772168
+r1
+xProcessPCH
+x/var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ArchiveCat-Prefix-dkgsbtrucwuahaeuzetqbzyyystk/ArchiveCat-Prefix.pch.pth
+xArchiveCat/ArchiveCat-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile ArchiveCat/ArchiveCat-Prefix.pch5a48f0d3dfebb641^69acc5d4dfebb641^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/ArchiveCat-Prefix.pch0000000000000000^3433"ProcessPCH /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ArchiveCat-Prefix-dkgsbtrucwuahaeuzetqbzyyystk/ArchiveCat-Prefix.pch.pth ArchiveCat/ArchiveCat-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/ArchiveCat-generated-files.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/ArchiveCat-own-target-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/ArchiveCat-all-target-headers.hmap -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/ArchiveCat-project-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/DerivedSources/x86_64 -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/ArchiveCat.build/Debug/ArchiveCat.build/DerivedSources -F/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/build/Debug --serialize-diagnostics /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ArchiveCat-Prefix-dkgsbtrucwuahaeuzetqbzyyystk/ArchiveCat-Prefix.pch.dia -c /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ArchiveCat/ArchiveCat/ArchiveCat-Prefix.pch -o /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ArchiveCat-Prefix-dkgsbtrucwuahaeuzetqbzyyystk/ArchiveCat-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ArchiveCat-Prefix-dkgsbtrucwuahaeuzetqbzyyystk/ArchiveCat-Prefix.pch.d36"E23C54C2-8FD0-4776-8CA9-FEB42D24F3E2-
+

@@ -1,0 +1,269 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		797690D117A20D6E00D15BCE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 797690D017A20D6E00D15BCE /* Foundation.framework */; };
+		797690D417A20D6E00D15BCE /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 797690D317A20D6E00D15BCE /* main.m */; };
+		797690D817A20D6E00D15BCE /* HelloApp.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 797690D717A20D6E00D15BCE /* HelloApp.1 */; };
+		797690DF17A20F6B00D15BCE /* libHelloLib.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 797690DE17A20F6B00D15BCE /* libHelloLib.a */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		797690CB17A20D6E00D15BCE /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+				797690D817A20D6E00D15BCE /* HelloApp.1 in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		797690CD17A20D6E00D15BCE /* HelloApp */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = HelloApp; sourceTree = BUILT_PRODUCTS_DIR; };
+		797690D017A20D6E00D15BCE /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		797690D317A20D6E00D15BCE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		797690D617A20D6E00D15BCE /* HelloApp-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HelloApp-Prefix.pch"; sourceTree = "<group>"; };
+		797690D717A20D6E00D15BCE /* HelloApp.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = HelloApp.1; sourceTree = "<group>"; };
+		797690DE17A20F6B00D15BCE /* libHelloLib.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libHelloLib.a; path = "../../../../../../../Library/Developer/Xcode/DerivedData/HelloSpace-gpjuielubjgobffljthjaovvzptt/Build/Products/Debug/libHelloLib.a"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		797690CA17A20D6E00D15BCE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				797690DF17A20F6B00D15BCE /* libHelloLib.a in Frameworks */,
+				797690D117A20D6E00D15BCE /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		797690C417A20D6E00D15BCE = {
+			isa = PBXGroup;
+			children = (
+				797690DE17A20F6B00D15BCE /* libHelloLib.a */,
+				797690D217A20D6E00D15BCE /* HelloApp */,
+				797690CF17A20D6E00D15BCE /* Frameworks */,
+				797690CE17A20D6E00D15BCE /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		797690CE17A20D6E00D15BCE /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				797690CD17A20D6E00D15BCE /* HelloApp */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		797690CF17A20D6E00D15BCE /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				797690D017A20D6E00D15BCE /* Foundation.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		797690D217A20D6E00D15BCE /* HelloApp */ = {
+			isa = PBXGroup;
+			children = (
+				797690D317A20D6E00D15BCE /* main.m */,
+				797690D717A20D6E00D15BCE /* HelloApp.1 */,
+				797690D517A20D6E00D15BCE /* Supporting Files */,
+			);
+			path = HelloApp;
+			sourceTree = "<group>";
+		};
+		797690D517A20D6E00D15BCE /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				797690D617A20D6E00D15BCE /* HelloApp-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		797690CC17A20D6E00D15BCE /* HelloApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 797690DB17A20D6E00D15BCE /* Build configuration list for PBXNativeTarget "HelloApp" */;
+			buildPhases = (
+				797690C917A20D6E00D15BCE /* Sources */,
+				797690CA17A20D6E00D15BCE /* Frameworks */,
+				797690CB17A20D6E00D15BCE /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = HelloApp;
+			productName = HelloApp;
+			productReference = 797690CD17A20D6E00D15BCE /* HelloApp */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		797690C517A20D6E00D15BCE /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0460;
+				ORGANIZATIONNAME = "Keith Lee";
+			};
+			buildConfigurationList = 797690C817A20D6E00D15BCE /* Build configuration list for PBXProject "HelloApp" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 797690C417A20D6E00D15BCE;
+			productRefGroup = 797690CE17A20D6E00D15BCE /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				797690CC17A20D6E00D15BCE /* HelloApp */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		797690C917A20D6E00D15BCE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				797690D417A20D6E00D15BCE /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		797690D917A20D6E00D15BCE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		797690DA17A20D6E00D15BCE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		797690DC17A20D6E00D15BCE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "HelloApp/HelloApp-Prefix.pch";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/../../../../../../../Library/Developer/Xcode/DerivedData/HelloSpace-gpjuielubjgobffljthjaovvzptt/Build/Products/Debug\"",
+				);
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = NO;
+				USER_HEADER_SEARCH_PATHS = "";
+			};
+			name = Debug;
+		};
+		797690DD17A20D6E00D15BCE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "HelloApp/HelloApp-Prefix.pch";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/../../../../../../../Library/Developer/Xcode/DerivedData/HelloSpace-gpjuielubjgobffljthjaovvzptt/Build/Products/Debug\"",
+				);
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = NO;
+				USER_HEADER_SEARCH_PATHS = "";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		797690C817A20D6E00D15BCE /* Build configuration list for PBXProject "HelloApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				797690D917A20D6E00D15BCE /* Debug */,
+				797690DA17A20D6E00D15BCE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		797690DB17A20D6E00D15BCE /* Build configuration list for PBXNativeTarget "HelloApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				797690DC17A20D6E00D15BCE /* Debug */,
+				797690DD17A20D6E00D15BCE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 797690C517A20D6E00D15BCE /* Project object */;
+}

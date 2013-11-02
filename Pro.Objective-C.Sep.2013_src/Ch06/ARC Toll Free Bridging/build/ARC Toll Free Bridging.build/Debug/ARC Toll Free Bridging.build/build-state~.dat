@@ -1,0 +1,97 @@
+TARC Toll Free Bridging
+v5
+r1
+cCheck dependencies
+cProcessPCH "/var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ARC Toll Free Bridging-Prefix-cprchhrtiyswqxdctwneyhtjeawx/ARC Toll Free Bridging-Prefix.pch.pth" "ARC Toll Free Bridging/ARC Toll Free Bridging-Prefix.pch" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "build/ARC Toll Free Bridging.build/Debug/ARC Toll Free Bridging.build/Objects-normal/x86_64/main.o" "/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC Toll Free Bridging/ARC Toll Free Bridging/main.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC Toll Free Bridging/build/Debug/ARC Toll Free Bridging" normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000509323A600000000000000AA
+t1351820198
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005066365B00000000000C39B8
+t1348875867
+s801208
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000005066365B00000000000015F7
+t1348875867
+s5623
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC Toll Free Bridging/ARC Toll Free Bridging/ARC Toll Free Bridging-Prefix.pch
+c0000000050D8001D00000000000000B7
+t1356333085
+s183
+i<Foundation/Foundation.h>
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC Toll Free Bridging/ARC Toll Free Bridging/main.m
+c0000000050D88EA1000000000000021A
+t1356369569
+s538
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC Toll Free Bridging/build/ARC Toll Free Bridging.build/Debug/ARC Toll Free Bridging.build/Objects-normal/x86_64/ARC Toll Free Bridging.LinkFileList
+c0000000050D88EA200000000000000B4
+t1356369570
+s180
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC Toll Free Bridging/build/ARC Toll Free Bridging.build/Debug/ARC Toll Free Bridging.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC Toll Free Bridging/build/Debug/ARC Toll Free Bridging
+t2
+s0
+
+N/var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ARC Toll Free Bridging-Prefix-cprchhrtiyswqxdctwneyhtjeawx/ARC Toll Free Bridging-Prefix.pch.pth
+t2
+s0
+
+CBuild AST from "/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC Toll Free Bridging/ARC Toll Free Bridging/main.m"
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies0a489b22c688b641^4165a022c688b641^---0#1#0#--18"Check dependencies36"46C0E09F-2479-4B95-BE19-A3253B1C7DCF-
+
+CCompileC "build/ARC Toll Free Bridging.build/Debug/ARC Toll Free Bridging.build/Objects-normal/x86_64/main.o" "/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC Toll Free Bridging/ARC Toll Free Bridging/main.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s378062371.675698
+e378062371.712791
+r1
+xCompileC
+xbuild/ARC Toll Free Bridging.build/Debug/ARC Toll Free Bridging.build/Objects-normal/x86_64/main.o
+x/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC Toll Free Bridging/ARC Toll Free Bridging/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Compile /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC Toll Free Bridging/ARC Toll Free Bridging/main.mea22ad23c688b641^4679b623c688b641^---0#0#0#-19%DVTDocumentLocation2@138"file://localhost/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC%20Toll%20Free%20Bridging/ARC%20Toll%20Free%20Bridging/main.m0000000000000000^4021"CompileC "build/ARC Toll Free Bridging.build/Debug/ARC Toll Free Bridging.build/Objects-normal/x86_64/main.o" "ARC Toll Free Bridging/main.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC Toll Free Bridging"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC Toll Free Bridging/build/ARC Toll Free Bridging.build/Debug/ARC Toll Free Bridging.build/ARC Toll Free Bridging-generated-files.hmap" "-I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC Toll Free Bridging/build/ARC Toll Free Bridging.build/Debug/ARC Toll Free Bridging.build/ARC Toll Free Bridging-own-target-headers.hmap" "-I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC Toll Free Bridging/build/ARC Toll Free Bridging.build/Debug/ARC Toll Free Bridging.build/ARC Toll Free Bridging-all-target-headers.hmap" -iquote "/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC Toll Free Bridging/build/ARC Toll Free Bridging.build/Debug/ARC Toll Free Bridging.build/ARC Toll Free Bridging-project-headers.hmap" "-I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC Toll Free Bridging/build/Debug/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC Toll Free Bridging/build/ARC Toll Free Bridging.build/Debug/ARC Toll Free Bridging.build/DerivedSources/x86_64" "-I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC Toll Free Bridging/build/ARC Toll Free Bridging.build/Debug/ARC Toll Free Bridging.build/DerivedSources" "-F/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC Toll Free Bridging/build/Debug" -include "/var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ARC Toll Free Bridging-Prefix-cprchhrtiyswqxdctwneyhtjeawx/ARC Toll Free Bridging-Prefix.pch" -MMD -MT dependencies -MF "/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC Toll Free Bridging/build/ARC Toll Free Bridging.build/Debug/ARC Toll Free Bridging.build/Objects-normal/x86_64/main.d" --serialize-diagnostics "/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC Toll Free Bridging/build/ARC Toll Free Bridging.build/Debug/ARC Toll Free Bridging.build/Objects-normal/x86_64/main.dia" -c "/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC Toll Free Bridging/ARC Toll Free Bridging/main.m" -o "/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC Toll Free Bridging/build/ARC Toll Free Bridging.build/Debug/ARC Toll Free Bridging.build/Objects-normal/x86_64/main.o"36"30BCC22C-E717-47A7-B120-C7AF36CD23E9-
+
+CLd "/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC Toll Free Bridging/build/Debug/ARC Toll Free Bridging" normal x86_64
+s378062371.719618
+e378062371.868555
+r1
+xLd
+x/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC Toll Free Bridging/build/Debug/ARC Toll Free Bridging
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Link /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC Toll Free Bridging/build/Debug/ARC Toll Free Bridging5950b823c688b641^2959de23c688b641^---0#0#0#--1019"Ld "build/Debug/ARC Toll Free Bridging" normal x86_64    cd "/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC Toll Free Bridging"    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk "-L/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC Toll Free Bridging/build/Debug" "-F/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC Toll Free Bridging/build/Debug" -filelist "/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC Toll Free Bridging/build/ARC Toll Free Bridging.build/Debug/ARC Toll Free Bridging.build/Objects-normal/x86_64/ARC Toll Free Bridging.LinkFileList" -mmacosx-version-min=10.8 -fobjc-arc -fobjc-link-runtime -framework Foundation -o "/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC Toll Free Bridging/build/Debug/ARC Toll Free Bridging"36"6EBD34E3-BB23-433F-86A5-37A411ADA276-
+
+CProcessPCH "/Users/klee/Library/Developer/Xcode/DerivedData/ARC_Toll_Free_Bridging-bjdktzaaadhoarbsrmnklvoskfda/Index/PrecompiledHeaders/ARC Toll Free Bridging-Prefix-cawhokjengxrqtgvvpecolyubdqw_ast/ARC Toll Free Bridging-Prefix.pch.pth" "ARC Toll Free Bridging/ARC Toll Free Bridging-Prefix.pch" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH "/var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ARC Toll Free Bridging-Prefix-cprchhrtiyswqxdctwneyhtjeawx/ARC Toll Free Bridging-Prefix.pch.pth" "ARC Toll Free Bridging/ARC Toll Free Bridging-Prefix.pch" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s378062370.634912
+e378062371.668842
+r1
+xProcessPCH
+x/var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ARC Toll Free Bridging-Prefix-cprchhrtiyswqxdctwneyhtjeawx/ARC Toll Free Bridging-Prefix.pch.pth
+xARC Toll Free Bridging/ARC Toll Free Bridging-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Precompile ARC Toll Free Bridging/ARC Toll Free Bridging-Prefix.pchf0f8a222c688b641^eb3bab23c688b641^---0#0#0#-19%DVTDocumentLocation2@171"file://localhost/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC%20Toll%20Free%20Bridging/ARC%20Toll%20Free%20Bridging/ARC%20Toll%20Free%20Bridging-Prefix.pch0000000000000000^4007"ProcessPCH "/var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ARC Toll Free Bridging-Prefix-cprchhrtiyswqxdctwneyhtjeawx/ARC Toll Free Bridging-Prefix.pch.pth" "ARC Toll Free Bridging/ARC Toll Free Bridging-Prefix.pch" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC Toll Free Bridging"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC Toll Free Bridging/build/ARC Toll Free Bridging.build/Debug/ARC Toll Free Bridging.build/ARC Toll Free Bridging-generated-files.hmap" "-I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC Toll Free Bridging/build/ARC Toll Free Bridging.build/Debug/ARC Toll Free Bridging.build/ARC Toll Free Bridging-own-target-headers.hmap" "-I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC Toll Free Bridging/build/ARC Toll Free Bridging.build/Debug/ARC Toll Free Bridging.build/ARC Toll Free Bridging-all-target-headers.hmap" -iquote "/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC Toll Free Bridging/build/ARC Toll Free Bridging.build/Debug/ARC Toll Free Bridging.build/ARC Toll Free Bridging-project-headers.hmap" "-I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC Toll Free Bridging/build/Debug/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC Toll Free Bridging/build/ARC Toll Free Bridging.build/Debug/ARC Toll Free Bridging.build/DerivedSources/x86_64" "-I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC Toll Free Bridging/build/ARC Toll Free Bridging.build/Debug/ARC Toll Free Bridging.build/DerivedSources" "-F/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC Toll Free Bridging/build/Debug" --serialize-diagnostics "/var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ARC Toll Free Bridging-Prefix-cprchhrtiyswqxdctwneyhtjeawx/ARC Toll Free Bridging-Prefix.pch.dia" -c "/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/ARC Toll Free Bridging/ARC Toll Free Bridging/ARC Toll Free Bridging-Prefix.pch" -o "/var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ARC Toll Free Bridging-Prefix-cprchhrtiyswqxdctwneyhtjeawx/ARC Toll Free Bridging-Prefix.pch.pth" -MMD -MT dependencies -MF "/var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ARC Toll Free Bridging-Prefix-cprchhrtiyswqxdctwneyhtjeawx/ARC Toll Free Bridging-Prefix.pch.d"36"2D5DA212-5F74-4862-8BEB-E675C63F4A5B-
+

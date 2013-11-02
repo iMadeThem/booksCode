@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'BrokenCalculator' target in the 'BrokenCalculator' project
+//
+
+#ifdef __OBJC__
+  #import <Foundation/Foundation.h>
+#endif

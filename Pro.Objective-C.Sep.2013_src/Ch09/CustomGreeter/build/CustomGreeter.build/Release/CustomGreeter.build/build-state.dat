@@ -1,0 +1,162 @@
+TCustomGreeter
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/Release/CustomGreeter.bundle/Contents/Info.plist CustomGreeter/CustomGreeter-Info.plist
+cProcessPCH /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomGreeter-Prefix-aotoyqstzygnmygufzgvnuhiccdq/CustomGreeter-Prefix.pch.pth CustomGreeter/CustomGreeter-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CustomGreeter.build/Release/CustomGreeter.build/Objects-normal/x86_64/CustomGreeter.o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/CustomGreeter/CustomGreeter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/Release/CustomGreeter.bundle/Contents/MacOS/CustomGreeter normal x86_64
+cGenerateDSYMFile /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/Release/CustomGreeter.bundle.dSYM /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/Release/CustomGreeter.bundle/Contents/MacOS/CustomGreeter
+cCopyStringsFile /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/Release/CustomGreeter.bundle/Contents/Resources/en.lproj/InfoPlist.strings CustomGreeter/en.lproj/InfoPlist.strings
+cTouch /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/Release/CustomGreeter.bundle
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000509323A600000000000000AA
+t1351820198
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000005066365B00000000000025C8
+t1348875867
+s9672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c000000005066365B00000000000001E5
+t1348875867
+s485
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/CustomGreeter/CustomGreeter-Prefix.pch
+c000000005108817B000000000000009B
+t1359511931
+s155
+i<Cocoa/Cocoa.h>
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/CustomGreeter/CustomGreeter.m
+c00000000510886570000000000000142
+t1359513175
+s322
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/CustomGreeter/en.lproj/InfoPlist.strings
+c000000005108817B000000000000002D
+t1359511931
+s45
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/CustomGreeter.build/Release/CustomGreeter.build/Objects-normal/x86_64/CustomGreeter.LinkFileList
+c00000000510886D300000000000000A4
+t1359513299
+s164
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/CustomGreeter.build/Release/CustomGreeter.build/Objects-normal/x86_64/CustomGreeter.o
+t2
+s0
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/Release/CustomGreeter.bundle
+t2
+s0
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/Release/CustomGreeter.bundle.dSYM
+t2
+s0
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/Release/CustomGreeter.bundle/Contents/Info.plist
+t2
+s0
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/Release/CustomGreeter.bundle/Contents/MacOS/CustomGreeter
+t2
+s0
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/Release/CustomGreeter.bundle/Contents/Resources/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomGreeter-Prefix-aotoyqstzygnmygufzgvnuhiccdq/CustomGreeter-Prefix.pch.pth
+t2
+s0
+
+NCustomGreeter/CustomGreeter-Info.plist
+c000000005108817B00000000000003BE
+t1359511931
+s958
+
+CBuild AST from /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/CustomGreeter/CustomGreeter.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies5be9b953beb8b641^096ec053beb8b641^---0#1#0#--18"Check dependencies36"6B8497D3-B5EC-44B9-87B8-EDDA78063C2E-
+
+CCompileC build/CustomGreeter.build/Release/CustomGreeter.build/Objects-normal/x86_64/CustomGreeter.o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/CustomGreeter/CustomGreeter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s381206100.710536
+e381206100.827762
+r1
+xCompileC
+xbuild/CustomGreeter.build/Release/CustomGreeter.build/Objects-normal/x86_64/CustomGreeter.o
+x/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/CustomGreeter/CustomGreeter.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/CustomGreeter/CustomGreeter.mbc05b654beb8b641^68e8d354beb8b641^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/CustomGreeter/CustomGreeter.m0000000000000000^3688"CompileC build/CustomGreeter.build/Release/CustomGreeter.build/Objects-normal/x86_64/CustomGreeter.o CustomGreeter/CustomGreeter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/CustomGreeter.build/Release/CustomGreeter.build/CustomGreeter-generated-files.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/CustomGreeter.build/Release/CustomGreeter.build/CustomGreeter-own-target-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/CustomGreeter.build/Release/CustomGreeter.build/CustomGreeter-all-target-headers.hmap -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/CustomGreeter.build/Release/CustomGreeter.build/CustomGreeter-project-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/CustomGreeter.build/Release/CustomGreeter.build/DerivedSources/x86_64 -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/CustomGreeter.build/Release/CustomGreeter.build/DerivedSources -F/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/Release -include /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomGreeter-Prefix-aotoyqstzygnmygufzgvnuhiccdq/CustomGreeter-Prefix.pch -MMD -MT dependencies -MF /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/CustomGreeter.build/Release/CustomGreeter.build/Objects-normal/x86_64/CustomGreeter.d --serialize-diagnostics /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/CustomGreeter.build/Release/CustomGreeter.build/Objects-normal/x86_64/CustomGreeter.dia -c /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/CustomGreeter/CustomGreeter.m -o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/CustomGreeter.build/Release/CustomGreeter.build/Objects-normal/x86_64/CustomGreeter.o36"2DEF0937-34C5-40F1-B174-D9B3FA9710CB-
+
+CCopyStringsFile /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/Release/CustomGreeter.bundle/Contents/Resources/en.lproj/InfoPlist.strings CustomGreeter/en.lproj/InfoPlist.strings
+s381206100.968709
+e381206100.971343
+r1
+xCopyStringsFile
+x/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/Release/CustomGreeter.bundle/Contents/Resources/en.lproj/InfoPlist.strings
+xCustomGreeter/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy CustomGreeter/en.lproj/InfoPlist.strings240ff854beb8b641^43aaf854beb8b641^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/CustomGreeter/en.lproj/InfoPlist.strings0000000000000000^486"CopyStringsFile build/Release/CustomGreeter.bundle/Contents/Resources/en.lproj/InfoPlist.strings CustomGreeter/en.lproj/InfoPlist.strings    cd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/Release/CustomGreeter.bundle/Contents/Resources/en.lproj -- CustomGreeter/en.lproj/InfoPlist.strings36"EF11450F-40B4-4B50-A113-31B4527F879A-
+
+CGenerateDSYMFile /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/Release/CustomGreeter.bundle.dSYM /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/Release/CustomGreeter.bundle/Contents/MacOS/CustomGreeter
+s381206100.886052
+e381206100.960681
+r1
+xGenerateDSYMFile
+x/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/Release/CustomGreeter.bundle.dSYM
+x/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/Release/CustomGreeter.bundle/Contents/MacOS/CustomGreeter
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Generating /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/Release/CustomGreeter.bundle.dSYM4be8e254beb8b641^30f3f554beb8b641^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/Release/CustomGreeter.bundle.dSYM000000000080d041^551"GenerateDSYMFile build/Release/CustomGreeter.bundle.dSYM build/Release/CustomGreeter.bundle/Contents/MacOS/CustomGreeter    cd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/Release/CustomGreeter.bundle/Contents/MacOS/CustomGreeter -o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/Release/CustomGreeter.bundle.dSYM36"7BDE1867-D2E4-41A2-9D19-9B6EFFB72385-
+
+CLd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/Release/CustomGreeter.bundle/Contents/MacOS/CustomGreeter normal x86_64
+s381206100.834572
+e381206100.879243
+r1
+xLd
+x/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/Release/CustomGreeter.bundle/Contents/MacOS/CustomGreeter
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection140"Link /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/Release/CustomGreeter.bundle/Contents/MacOS/CustomGreeter5abbd554beb8b641^5516e154beb8b641^---0#0#0#--1002"Ld build/Release/CustomGreeter.bundle/Contents/MacOS/CustomGreeter normal x86_64    cd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -bundle -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/Release -F/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/Release -filelist /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/CustomGreeter.build/Release/CustomGreeter.build/Objects-normal/x86_64/CustomGreeter.LinkFileList -mmacosx-version-min=10.8 -fobjc-arc -fobjc-link-runtime -framework Cocoa -o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/Release/CustomGreeter.bundle/Contents/MacOS/CustomGreeter36"A775F19E-6A96-4050-A243-FB984D78C61C-
+
+CProcessInfoPlistFile /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/Release/CustomGreeter.bundle/Contents/Info.plist CustomGreeter/CustomGreeter-Info.plist
+s381206099.755320
+e381206099.758126
+r1
+xProcessInfoPlistFile
+x/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/Release/CustomGreeter.bundle/Contents/Info.plist
+xCustomGreeter/CustomGreeter-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Process CustomGreeter/CustomGreeter-Info.plist766fc153beb8b641^d848c253beb8b641^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/CustomGreeter/CustomGreeter-Info.plist0000000000000000^430"ProcessInfoPlistFile build/Release/CustomGreeter.bundle/Contents/Info.plist CustomGreeter/CustomGreeter-Info.plist    cd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter    builtin-infoPlistUtility CustomGreeter/CustomGreeter-Info.plist -expandbuildsettings -platform macosx -o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/Release/CustomGreeter.bundle/Contents/Info.plist36"FE459CD8-C3D9-4D97-9A3C-92050D93731A-
+
+CProcessPCH /Users/klee/Library/Developer/Xcode/DerivedData/CustomGreeter-dklkicmokrcsddhkuvverwinnhpk/Index/PrecompiledHeaders/CustomGreeter-Prefix-fjgstedfrqsclochnswaxyvhvqyt_ast/CustomGreeter-Prefix.pch.pth CustomGreeter/CustomGreeter-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomGreeter-Prefix-aotoyqstzygnmygufzgvnuhiccdq/CustomGreeter-Prefix.pch.pth CustomGreeter/CustomGreeter-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s381206099.766229
+e381206100.703731
+r1
+xProcessPCH
+x/var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomGreeter-Prefix-aotoyqstzygnmygufzgvnuhiccdq/CustomGreeter-Prefix.pch.pth
+xCustomGreeter/CustomGreeter-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile CustomGreeter/CustomGreeter-Prefix.pchbf44c453beb8b641^2027b454beb8b641^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/CustomGreeter/CustomGreeter-Prefix.pch0000000000000000^3641"ProcessPCH /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomGreeter-Prefix-aotoyqstzygnmygufzgvnuhiccdq/CustomGreeter-Prefix.pch.pth CustomGreeter/CustomGreeter-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/CustomGreeter.build/Release/CustomGreeter.build/CustomGreeter-generated-files.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/CustomGreeter.build/Release/CustomGreeter.build/CustomGreeter-own-target-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/CustomGreeter.build/Release/CustomGreeter.build/CustomGreeter-all-target-headers.hmap -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/CustomGreeter.build/Release/CustomGreeter.build/CustomGreeter-project-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/CustomGreeter.build/Release/CustomGreeter.build/DerivedSources/x86_64 -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/CustomGreeter.build/Release/CustomGreeter.build/DerivedSources -F/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/Release --serialize-diagnostics /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomGreeter-Prefix-aotoyqstzygnmygufzgvnuhiccdq/CustomGreeter-Prefix.pch.dia -c /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/CustomGreeter/CustomGreeter-Prefix.pch -o /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomGreeter-Prefix-aotoyqstzygnmygufzgvnuhiccdq/CustomGreeter-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomGreeter-Prefix-aotoyqstzygnmygufzgvnuhiccdq/CustomGreeter-Prefix.pch.d36"91EA8AF3-0565-489B-9352-00343D9E1494-
+
+CTouch /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/Release/CustomGreeter.bundle
+s381206100.979351
+e381206100.986241
+r1
+xTouch
+x/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/Release/CustomGreeter.bundle
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Touch /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/Release/CustomGreeter.bundlec5c8fa54beb8b641^9a7bfc54beb8b641^---0#0#0#--249"Touch build/Release/CustomGreeter.bundle    cd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter    /usr/bin/touch -c /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/CustomGreeter/build/Release/CustomGreeter.bundle36"62C2A1FF-1C3A-4255-860A-7E787A7FB343-
+

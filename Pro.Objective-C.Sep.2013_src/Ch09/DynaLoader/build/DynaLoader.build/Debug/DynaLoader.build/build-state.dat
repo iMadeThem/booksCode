@@ -1,0 +1,194 @@
+TDynaLoader
+v5
+r1
+cCheck dependencies
+cProcessPCH /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DynaLoader-Prefix-fnikjeaqgdhcmfcsdlhlkyiemxbk/DynaLoader-Prefix.pch.pth DynaLoader/DynaLoader-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/DynaLoader.build/Debug/DynaLoader.build/Objects-normal/x86_64/main.o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/DynaLoader/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/DynaLoader.build/Debug/DynaLoader.build/Objects-normal/x86_64/BasicGreeter.o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/BasicGreeter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/Debug/DynaLoader normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c000000005109EF2300000000000000AA
+t1359605539
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005066365B00000000000C39B8
+t1348875867
+s801208
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000005066365B00000000000015F7
+t1348875867
+s5623
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/../Greeter/BasicGreeter.h
+c00000000511AF0DF00000000000006C6
+t1360720095
+s1734
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/../Greeter/BasicGreeter.m
+c00000000511AF0E1000000000000070D
+t1360720097
+s1805
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/../Greeter/Greeter.m
+c00000000510754D50000000000000127
+t1359434965
+s295
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/BasicGreeter.h
+c00000000511AF0DF00000000000006C6
+t1360720095
+s1734
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/BasicGreeter.m
+c00000000511AF0E1000000000000070D
+t1360720097
+s1805
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/DynaLoader/DynaLoader-Prefix.pch
+c000000005105B66F000000000000009F
+t1359328879
+s159
+i<Foundation/Foundation.h>
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/DynaLoader/main.m
+c00000000510EE7110000000000000C68
+t1359931153
+s3176
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/Greeter.h
+c000000005111BCE400000000000006D6
+t1360116964
+s1750
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/Debug/DynaLoader
+t1360720236
+s14888
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/Objects-normal/x86_64/BasicGreeter.o
+t1360720233
+s10304
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/Objects-normal/x86_64/DynaLoader.LinkFileList
+c00000000510885EE0000000000000128
+t1359513070
+s296
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/Objects-normal/x86_64/Greeter.o
+t2
+s0
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/Objects-normal/x86_64/main.o
+t1360720233
+s8600
+
+N/var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DynaLoader-Prefix-ektxgpwzmoezjhfufcxxxxfuyavg/DynaLoader-Prefix.pch.pth
+t1359513071
+s10142896
+
+N/var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DynaLoader-Prefix-fnikjeaqgdhcmfcsdlhlkyiemxbk/DynaLoader-Prefix.pch.pth
+t1359681586
+s9387592
+
+CBuild AST from /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/../Greeter/BasicGreeter.m
+r0
+
+CBuild AST from /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/../Greeter/Greeter.m
+r0
+
+CBuild AST from /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/BasicGreeter.m
+r0
+
+CBuild AST from /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/DynaLoader/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesa4720bfc28cbb641^a5da0bfc28cbb641^---0#1#0#--18"Check dependencies36"F03523C0-15DE-42C6-A221-07C96FDD5338-
+
+CCompileC build/DynaLoader.build/Debug/DynaLoader.build/Objects-normal/x86_64/BasicGreeter.o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/../Greeter/BasicGreeter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s381465855.483720
+e381465857.030592
+r1
+xCompileC
+xbuild/DynaLoader.build/Debug/DynaLoader.build/Objects-normal/x86_64/BasicGreeter.o
+x/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/../Greeter/BasicGreeter.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/../Greeter/BasicGreeter.m05fb7bffb4bcb641^b3d30701b5bcb641^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/../Greeter/BasicGreeter.m0000000000000000^3187"CompileC build/DynaLoader.build/Debug/DynaLoader.build/Objects-normal/x86_64/BasicGreeter.o ../Greeter/BasicGreeter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/DynaLoader-generated-files.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/DynaLoader-own-target-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/DynaLoader-all-target-headers.hmap -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/DynaLoader-project-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/Debug/include -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/DerivedSources/x86_64 -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/DerivedSources -F/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/Debug -include /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DynaLoader-Prefix-fnikjeaqgdhcmfcsdlhlkyiemxbk/DynaLoader-Prefix.pch -MMD -MT dependencies -MF /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/Objects-normal/x86_64/BasicGreeter.d --serialize-diagnostics /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/Objects-normal/x86_64/BasicGreeter.dia -c /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/../Greeter/BasicGreeter.m -o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/Objects-normal/x86_64/BasicGreeter.o36"9094C619-4246-430A-8075-BDE706E151DF-
+
+CCompileC build/DynaLoader.build/Debug/DynaLoader.build/Objects-normal/x86_64/BasicGreeter.o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/BasicGreeter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382413030.624360
+e382413033.652239
+r1
+xCompileC
+xbuild/DynaLoader.build/Debug/DynaLoader.build/Objects-normal/x86_64/BasicGreeter.o
+x/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/BasicGreeter.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/BasicGreeter.md00ea0e628cbb641^8a00a7e928cbb641^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/BasicGreeter.m0000000000000000^3165"CompileC build/DynaLoader.build/Debug/DynaLoader.build/Objects-normal/x86_64/BasicGreeter.o BasicGreeter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/DynaLoader-generated-files.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/DynaLoader-own-target-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/DynaLoader-all-target-headers.hmap -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/DynaLoader-project-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/Debug/include -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/DerivedSources/x86_64 -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/DerivedSources -F/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/Debug -include /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DynaLoader-Prefix-fnikjeaqgdhcmfcsdlhlkyiemxbk/DynaLoader-Prefix.pch -MMD -MT dependencies -MF /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/Objects-normal/x86_64/BasicGreeter.d --serialize-diagnostics /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/Objects-normal/x86_64/BasicGreeter.dia -c /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/BasicGreeter.m -o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/Objects-normal/x86_64/BasicGreeter.o36"7294B44D-783E-4B70-8A8D-E7132C1D8441-
+
+CCompileC build/DynaLoader.build/Debug/DynaLoader.build/Objects-normal/x86_64/Greeter.o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/../Greeter/Greeter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/DynaLoader.build/Debug/DynaLoader.build/Objects-normal/x86_64/main.o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/DynaLoader/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382413030.624383
+e382413033.652224
+r1
+xCompileC
+xbuild/DynaLoader.build/Debug/DynaLoader.build/Objects-normal/x86_64/main.o
+x/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/DynaLoader/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/DynaLoader/main.m5a0ea0e628cbb641^27f8a6e928cbb641^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/DynaLoader/main.m0000000000000000^3139"CompileC build/DynaLoader.build/Debug/DynaLoader.build/Objects-normal/x86_64/main.o DynaLoader/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/DynaLoader-generated-files.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/DynaLoader-own-target-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/DynaLoader-all-target-headers.hmap -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/DynaLoader-project-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/Debug/include -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/DerivedSources/x86_64 -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/DerivedSources -F/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/Debug -include /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DynaLoader-Prefix-fnikjeaqgdhcmfcsdlhlkyiemxbk/DynaLoader-Prefix.pch -MMD -MT dependencies -MF /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/Objects-normal/x86_64/main.dia -c /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/DynaLoader/main.m -o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/Objects-normal/x86_64/main.o36"C69A5195-B66E-4715-AA70-DD60328713F1-
+
+CLd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/Debug/DynaLoader normal x86_64
+s382413033.659030
+e382413036.624930
+r1
+xLd
+x/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/Debug/DynaLoader
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Link /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/Debug/DynaLoader81cea8e928cbb641^a0fa9fec28cbb641^---0#0#0#--887"Ld build/Debug/DynaLoader normal x86_64    cd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/Debug -F/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/Debug -filelist /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/Objects-normal/x86_64/DynaLoader.LinkFileList -mmacosx-version-min=10.8 -fobjc-arc -fobjc-link-runtime -framework Foundation -o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/Debug/DynaLoader36"A631635E-D57D-4625-91E1-1788B261F7B1-
+
+CProcessPCH /Users/klee/Library/Developer/Xcode/DerivedData/DynaLoader-blbzlbumealfygbyawlusjeyngdr/Index/PrecompiledHeaders/DynaLoader-Prefix-asvmyodhdqdboradqtayzfiougsr_ast/DynaLoader-Prefix.pch.pth DynaLoader/DynaLoader-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/klee/Library/Developer/Xcode/DerivedData/DynaLoader-blbzlbumealfygbyawlusjeyngdr/Index/PrecompiledHeaders/DynaLoader-Prefix-druiplexfjdkpbbgybwwgbtrgkxd_ast/DynaLoader-Prefix.pch.pth DynaLoader/DynaLoader-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DynaLoader-Prefix-ektxgpwzmoezjhfufcxxxxfuyavg/DynaLoader-Prefix.pch.pth DynaLoader/DynaLoader-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s381205870.995369
+e381205871.682349
+r1
+xProcessPCH
+x/var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DynaLoader-Prefix-ektxgpwzmoezjhfufcxxxxfuyavg/DynaLoader-Prefix.pch.pth
+xDynaLoader/DynaLoader-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile DynaLoader/DynaLoader-Prefix.pch44fdfe6ebdb8b641^92adae6fbdb8b641^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/DynaLoader/DynaLoader-Prefix.pch0000000000000000^3242"ProcessPCH /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DynaLoader-Prefix-ektxgpwzmoezjhfufcxxxxfuyavg/DynaLoader-Prefix.pch.pth DynaLoader/DynaLoader-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/DynaLoader-generated-files.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/DynaLoader-own-target-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/DynaLoader-all-target-headers.hmap -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/DynaLoader-project-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/Debug/include -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/DerivedSources/x86_64 -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/DerivedSources -F/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/Debug --serialize-diagnostics /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DynaLoader-Prefix-ektxgpwzmoezjhfufcxxxxfuyavg/DynaLoader-Prefix.pch.dia -c /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/DynaLoader/DynaLoader-Prefix.pch -o /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DynaLoader-Prefix-ektxgpwzmoezjhfufcxxxxfuyavg/DynaLoader-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DynaLoader-Prefix-ektxgpwzmoezjhfufcxxxxfuyavg/DynaLoader-Prefix.pch.d36"A0B40483-C10A-40E6-A52A-696E1C1D7627-
+
+CProcessPCH /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DynaLoader-Prefix-fnikjeaqgdhcmfcsdlhlkyiemxbk/DynaLoader-Prefix.pch.pth DynaLoader/DynaLoader-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s381374385.478801
+e381374386.491085
+r1
+xProcessPCH
+x/var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DynaLoader-Prefix-fnikjeaqgdhcmfcsdlhlkyiemxbk/DynaLoader-Prefix.pch.pth
+xDynaLoader/DynaLoader-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile DynaLoader/DynaLoader-Prefix.pch40c07ab14fbbb641^56b87db24fbbb641^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/DynaLoader/DynaLoader-Prefix.pch0000000000000000^3163"ProcessPCH /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DynaLoader-Prefix-fnikjeaqgdhcmfcsdlhlkyiemxbk/DynaLoader-Prefix.pch.pth DynaLoader/DynaLoader-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/DynaLoader-generated-files.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/DynaLoader-own-target-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/DynaLoader-all-target-headers.hmap -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/DynaLoader-project-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/Debug/include -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/DerivedSources/x86_64 -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/DynaLoader.build/Debug/DynaLoader.build/DerivedSources -F/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/build/Debug --serialize-diagnostics /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DynaLoader-Prefix-fnikjeaqgdhcmfcsdlhlkyiemxbk/DynaLoader-Prefix.pch.dia -c /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/DynaLoader/DynaLoader/DynaLoader-Prefix.pch -o /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DynaLoader-Prefix-fnikjeaqgdhcmfcsdlhlkyiemxbk/DynaLoader-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DynaLoader-Prefix-fnikjeaqgdhcmfcsdlhlkyiemxbk/DynaLoader-Prefix.pch.d36"2F07F58E-E64C-43A1-8839-CC39D6EDAC19-
+

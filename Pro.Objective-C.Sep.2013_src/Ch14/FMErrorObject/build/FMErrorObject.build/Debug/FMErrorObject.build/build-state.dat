@@ -1,0 +1,97 @@
+TFMErrorObject
+v5
+r1
+cCheck dependencies
+cProcessPCH /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FMErrorObject-Prefix-afwihkspzqhczyewrmqhbrfbfxct/FMErrorObject-Prefix.pch.pth FMErrorObject/FMErrorObject-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/FMErrorObject.build/Debug/FMErrorObject.build/Objects-normal/x86_64/main.o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject/FMErrorObject/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject/build/Debug/FMErrorObject normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000514A6B5400000000000000AA
+t1363831636
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000514A6B3600000000000C4BAC
+t1363831606
+s805804
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000005066365B00000000000015F7
+t1348875867
+s5623
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject/FMErrorObject/FMErrorObject-Prefix.pch
+c000000005169BD7B00000000000000A5
+t1365884283
+s165
+i<Foundation/Foundation.h>
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject/FMErrorObject/main.m
+c000000005169C0750000000000000377
+t1365885045
+s887
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject/build/Debug/FMErrorObject
+t1365884700
+s9572
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject/build/FMErrorObject.build/Debug/FMErrorObject.build/Objects-normal/x86_64/FMErrorObject.LinkFileList
+c000000005169BE900000000000000099
+t1365884560
+s153
+
+N/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject/build/FMErrorObject.build/Debug/FMErrorObject.build/Objects-normal/x86_64/main.o
+t1365884700
+s7140
+
+N/var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FMErrorObject-Prefix-afwihkspzqhczyewrmqhbrfbfxct/FMErrorObject-Prefix.pch.pth
+t1365884561
+s9388036
+
+CBuild AST from /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject/FMErrorObject/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies7ac4dcf6f719b741^1ea5def6f719b741^---0#1#0#--18"Check dependencies36"0206B349-004E-4478-919B-A16DA557C663-
+
+CCompileC build/FMErrorObject.build/Debug/FMErrorObject.build/Objects-normal/x86_64/main.o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject/FMErrorObject/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s387577846.873891
+e387577846.926398
+r1
+xCompileC
+xbuild/FMErrorObject.build/Debug/FMErrorObject.build/Objects-normal/x86_64/main.o
+x/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject/FMErrorObject/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject/FMErrorObject/main.mcfd8dff6f719b741^0728edf6f719b741^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject/FMErrorObject/main.m0000000000000000^3532"CompileC build/FMErrorObject.build/Debug/FMErrorObject.build/Objects-normal/x86_64/main.o FMErrorObject/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject/build/FMErrorObject.build/Debug/FMErrorObject.build/FMErrorObject-generated-files.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject/build/FMErrorObject.build/Debug/FMErrorObject.build/FMErrorObject-own-target-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject/build/FMErrorObject.build/Debug/FMErrorObject.build/FMErrorObject-all-target-headers.hmap -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject/build/FMErrorObject.build/Debug/FMErrorObject.build/FMErrorObject-project-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject/build/FMErrorObject.build/Debug/FMErrorObject.build/DerivedSources/x86_64 -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject/build/FMErrorObject.build/Debug/FMErrorObject.build/DerivedSources -F/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject/build/Debug -include /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FMErrorObject-Prefix-afwihkspzqhczyewrmqhbrfbfxct/FMErrorObject-Prefix.pch -MMD -MT dependencies -MF /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject/build/FMErrorObject.build/Debug/FMErrorObject.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject/build/FMErrorObject.build/Debug/FMErrorObject.build/Objects-normal/x86_64/main.dia -c /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject/FMErrorObject/main.m -o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject/build/FMErrorObject.build/Debug/FMErrorObject.build/Objects-normal/x86_64/main.o36"E508CE7E-E2E4-4864-85BA-A083FF2556B4-
+
+CLd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject/build/Debug/FMErrorObject normal x86_64
+s387577846.932911
+e387577846.961165
+r1
+xLd
+x/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject/build/Debug/FMErrorObject
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Link /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject/build/Debug/FMErrorObject0ce7eef6f719b741^6f0ff6f6f719b741^---0#0#0#--917"Ld build/Debug/FMErrorObject normal x86_64    cd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject/build/Debug -F/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject/build/Debug -filelist /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject/build/FMErrorObject.build/Debug/FMErrorObject.build/Objects-normal/x86_64/FMErrorObject.LinkFileList -mmacosx-version-min=10.8 -fobjc-arc -fobjc-link-runtime -framework Foundation -o /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject/build/Debug/FMErrorObject36"65385158-BDF8-42CA-9A4A-317D208C196B-
+
+CProcessPCH /Users/klee/Library/Developer/Xcode/DerivedData/FMErrorObject-dearscaqbdohoogllqikcembkokz/Index/PrecompiledHeaders/FMErrorObject-Prefix-faxrdzhfqtqrygcktiwhmovcdpmz_ast/FMErrorObject-Prefix.pch.pth FMErrorObject/FMErrorObject-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FMErrorObject-Prefix-afwihkspzqhczyewrmqhbrfbfxct/FMErrorObject-Prefix.pch.pth FMErrorObject/FMErrorObject-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s387577360.747406
+e387577361.438534
+r1
+xProcessPCH
+x/var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FMErrorObject-Prefix-afwihkspzqhczyewrmqhbrfbfxct/FMErrorObject-Prefix.pch.pth
+xFMErrorObject/FMErrorObject-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile FMErrorObject/FMErrorObject-Prefix.pch137cbf10f619b741^1c437011f619b741^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject/FMErrorObject/FMErrorObject-Prefix.pch0000000000000000^3547"ProcessPCH /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FMErrorObject-Prefix-afwihkspzqhczyewrmqhbrfbfxct/FMErrorObject-Prefix.pch.pth FMErrorObject/FMErrorObject-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject/build/FMErrorObject.build/Debug/FMErrorObject.build/FMErrorObject-generated-files.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject/build/FMErrorObject.build/Debug/FMErrorObject.build/FMErrorObject-own-target-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject/build/FMErrorObject.build/Debug/FMErrorObject.build/FMErrorObject-all-target-headers.hmap -iquote /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject/build/FMErrorObject.build/Debug/FMErrorObject.build/FMErrorObject-project-headers.hmap -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject/build/FMErrorObject.build/Debug/FMErrorObject.build/DerivedSources/x86_64 -I/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject/build/FMErrorObject.build/Debug/FMErrorObject.build/DerivedSources -F/Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject/build/Debug --serialize-diagnostics /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FMErrorObject-Prefix-afwihkspzqhczyewrmqhbrfbfxct/FMErrorObject-Prefix.pch.dia -c /Users/klee/Documents/Publishing/Apress/ProObjectiveC/dev/FMErrorObject/FMErrorObject/FMErrorObject-Prefix.pch -o /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FMErrorObject-Prefix-afwihkspzqhczyewrmqhbrfbfxct/FMErrorObject-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/zx/rs5cb87j7pv1941c5cm7ftdm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FMErrorObject-Prefix-afwihkspzqhczyewrmqhbrfbfxct/FMErrorObject-Prefix.pch.d36"75126538-8F0B-4B73-B032-245910A37E7D-
+

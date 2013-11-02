@@ -1,0 +1,9 @@
+//
+//  Test.xcconfig
+//  ConfigSettingsProject
+//
+//  Created by Keith Lee on 7/23/13.
+//  Copyright (c) 2013 Keith Lee. All rights reserved.
+//
+GCC_GENERATE_TEST_COVERAGE_FILES=YES
+GCC_INSTRUMENT_PROGRAM_FLOW_ARCS=YES
