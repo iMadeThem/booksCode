@@ -1,0 +1,94 @@
+<HTML>
+<HEAD><META http-equiv="Content-Type" content="text/html">
+<TITLE>Thinking in C++, 2nd Edition, Volume 2: Revision History</TITLE>
+<STYLE TYPE="text/css">
+<!--
+	 <!BODY, TD, P, FONT, INPUT { font-family: "Verdana, Helvetica", Arial;}>
+-->	 
+</STYLE> 
+</HEAD>
+<h1>Revision 2</h1>
+
+<h3>Revision history for Thinking in C++, 2nd Edition, Volume 2</h3>
+Please note that much of this book is still in very early form.
+
+<hr>
+Full text, source code and additional information available at 
+<A HREF="http://www.BruceEckel.com">www.BruceEckel.com</A>.
+<hr>
+To be informed of future releases of this document and other information about object-oriented books, documents, seminars and CDs, subscribe to my free newsletter. Just send any email to: 
+<A HREF="mailto:join-eckel-oo-programming@earth.lyris.net">
+join-eckel-oo-programming@earth.lyris.net</A><hr>
+
+<!--------------------------------------------------------->
+<h2>Revision history:</h2>
+
+<h4>Revision 2, Feb 8, 2000</h4>
+Converted to HTML with color syntax highlighting. As I am working on the Java book full time, there will not be any revisions of this book for quite a while.
+
+<h4>TIC2VtwoR1: September 20, 1999</h4>
+ Broke the book into two volumes; this is volume two, which will be published approximately late 2000 or early 2001. No other changes have been made to volume 2 other than the separation and chapter renumbering.
+
+<h4>TICA19: September 9, 1999</h4>
+ Started rewriting chapter 9. Then a reader comment about an error in a Stash or Stack example caused me to re-architect all those examples and their prose throughout the book, through Chapter 16 (Introduction to Templates) - A lot of changes/new examples/re-architecting happened in Chapter 16 (the examples compile, but please test the execution of the examples and send error corrections) and although I haven't made the final passes it is in pretty good shape. In addition, I added a new Stack example in Chapter 15 (Polymorphism) which shows the use of a container class in conjunction with a singly-rooted hierarchy (and a little multiple inheritance to boot). Rewrote some virtual destructor examples and prose in Chapter 15. Began making reference to Volume 2 of the book, as the book is going to be split into Volume 1 and Volume 2, the split occuring after chapter 16. The goal is to have Volume 1 in print by March 1 for academic adoption and Volume 2 a year after that (Volume 2 will, of course, be avaialable on the Internet in the meantime).
+
+<h4>TICA18: July 29, 1999</h4>
+ Rewrote chapter 8 and added exercises. Replaced all later instances of the "enum hack" with static const (which breaks VC++ a lot, since they still haven't implemented this relatively ancient and simple feature). Added compiler support for Visual C++ 6.0 (+Service Pack 3) (although this hasn't been tested with Microsoft's nmake; you may need to edit the makefiles, copy nmake.exe to make.exe, or locate a gnu make in order to get it to work). You can see the results in CompileDB.txt in Appendix D. Retested all code with Borland C++ Builder 4 plus the downloadable update, and with egcs from July 18, 1999</h4>
+ Cleaned up some code files that were not being automatically compiled because they didn't have main( )s.
+
+<h4>TICA17: June 27, 1999</h4>
+ Rewrote chapter 6 and added exercises. Rewrote chapter 7 and added exercises.
+
+<h4>TICA16: June 1, 1999</h4>
+ Rewrote chapter 5 and added exercises. Modifications to chapter 19 before and after presentations at the SD conference. Added "Factories" section to design patterns chapter. Rechecked book code under May 24 build of egcs compiler.
+
+<h4>TICA15: April 22, 1999</h4>
+ Rewrote chapter 4 and added exercises. 
+
+<h4>TICA14, March 28, 1999</h4>
+ Rewrote Chapter 2 and 3. I think they're both finished. Chapter 3 is rather big since it covers C syntax fundamentals, along with some C++ basics. Added many exercises to Chapters 2 & 3, to complete them both. Chapter 3 was a "hump" chapter; I think the others in section one shouldn't be as hard. Tried to conform all code in the book to the convention of "type names start with uppercase letters, functions and variables start with lowercase letters".
+
+<h4>TICA13, March 9, 1999</h4>
+ Thorough rewrite of chapter one, including the addition of UML diagrams. I think chapter one is finished, now. Reorganized material elsewhere in the book, but that is still in transit. My goal right now is to move through all the chapters in section one, in order.
+
+<h4>TICA12, January 15, 1999</h4>
+ Lots of work done on the Design Patterns chapter. All the exsting programs are now modified and redesigned (significantly!) to compile under C++. Added several new examples. Much of the prose in this chapter still needs work, and more patterns and examples are forthcoming. Changed ExtractCode.cpp so that it generates "bugs" targets for each makefile, containing all the files that won't compile with a particular compiler so they can be re-checked with new compilers. Generates a master in the book's root directory called makefile.bugs which descends into each subdirectory and executes make with "bugs" as a target and the -i flag so you'll see all the errors.
+
+<h4>TICA11, January 7, 1999</h4>
+ Completed the STL Algorithms chapter (significant additions and changes), edited and added examples the STL containers chapter. Added many exercises at the ends of both chapters. I consider these both completed now. Added an example or two to the strings chapter.
+
+<h4>TICA10, December 28, 1998</h4>
+ Complete rewrite of the ExtractCode.cpp program to automatically generate makefiles for each compiler that the book tests, excluding files that the compiler can't handle (these are in a special list in the appendices, so you can see what breaks a compiler, and you can create your own). You now don't need to extract the files yourself (although you still can, for special cases) but instead you just download and unzip a file. All the files in the book (with the exception of the files that are still in Java) now compile with at least one Standard C++ compiler. Added the trim.h, SiteMapConvert.cpp and StringCharReplace.cpp examples to the strings chapter. Added the ProgVals example to chapter 20. Removed all the strlwr( ) uses (it's a non-standard function).
+
+<h4>TICA9, December 15, 1998</h4>
+ Massive work completed on the STL Algorithms chapter; it's quite close to being finished. The long delay was because (1) This chapter took a lot of research and thinking, including other research such as templates; you'll notice the "advanced templates" chapter has more in it's outline (2) I was traveling and giving seminars, etc. I'm entering a two-month hiatus where I'm primarily working on the book and should get a lot accomplished.
+
+<h4>TICA8, September 26, 1998</h4>
+ Completed the STL containers chapter.
+
+<h4>TICA7, August 14, 1998</h4>
+ Strings chapter modified. Other odds and ends.
+
+<h4>TICA6, August 6, 1998</h4>
+ Strings chapter added, still needs some work but it's in fairly good shape. The basic structure for the STL Algorithms chapter is in place and "just" needs to be filled out. Reorganized the chapters; this should be very close to the final organization (unless I discover I've left something out).
+
+<h4>TICA5, August 2, 1998</h4>
+ Lots of work done on this version. Everything compiles (except for the design patterns chapter with the Java code) under Borland C++ 5.3. This is the only compiler that even comes close, but I have high hopes for the next verison of egcs. The chapters and organization of the book is starting to take on more form. A lot of work and new material added in the "STL Containers" chapter (in preparation for my STL talks at the Borland and SD conferences), although that is far from finished. Also, replaced many of the situations in the first edition where I used my home-grown containers with STL containers (typically vector). Changed all header includes to new style (except for C programs): <iostream> instead of <iostream.h>, <cstdlib> instead of <stdlib.h>, etc. Adjustment of namespace issues ("using namespace std" in cpp files, full qualification of names in header files). Added appendix A to describe coding style (including namespaces). Added "require.h" error testing code and used it universally. Rearranged header include order to go from more general to more specific (consistency and style issue described in appendix A). Replaced 'main( ) {}' form with 'int main( ) { }' form (this relies on the default "return 0" behavior, although some compilers, notably VC++, give warnings). Went through and implemented the class naming policy (following the Java/Smalltalk policy of starting with uppercase etc.) but not the member functions/data members (starting with lowercase etc.). Added appendix A on coding style. Tested code with my modified version of Borland C++ 5.3 (cribbed a corrected ostream_iterator from egcs and <sstream> from elsewhere) so not all the programs will compile with your compiler (VC++ in particular has a lot of trouble with namespaces). On the web site, I added the broken-up versions of the files for easier downloads.
+
+<h4>TICA4, July 22, 1998</h4>
+ More changes and additions to the "CGI Programming" section at the end of Chapter 23. I think that section is finished now, with the exception of corrections.
+
+<h4>TICA3, July 14, 1998</h4>
+ First revision with content editing (instead of just being a posting to test the formatting and code extraction process). Changes in the end of Chapter 23, on the "CGI Programming" section. Minor tweaks elsewhere. RTF format should be fixed now.
+
+<h4>TICA2, July 9, 1998</h4>
+ Changed all fonts to Times and Courier (which are universal); changed distribution format to RTF (readable by most PC and Mac Word Processors, and by at least one on Linux: StarOffice from www.caldera.com. Please let me know if you know about other RTF word processors under Linux).
+
+
+<hr>
+<!--------------------------------------------------------->
+<h2>To do:</h2>
+<OL>
+<LI>Add/verify const correctness
+</OL>
+</HTML>
