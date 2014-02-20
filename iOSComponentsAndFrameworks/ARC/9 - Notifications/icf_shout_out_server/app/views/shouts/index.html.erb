@@ -1,0 +1,18 @@
+<h1>Shout Outs</h1>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Shout date</th>
+    <th>Shout message</th>
+  </tr>
+
+<% @shouts.each do |shout| %>
+  <tr>
+    <td><%= shout.name %></td>
+    <td><%= shout.shout_date %></td>
+    <td><%= shout.shout_message %></td>
+  </tr>
+<% end %>
+</table>
+
